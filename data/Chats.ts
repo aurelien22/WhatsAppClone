@@ -16,6 +16,8 @@ export default {
         user: {
             id: 'u1',
             name: 'Vadim',
+            imageUri: 'https://media.istockphoto.com/photos/hiding-spider-picture-id146953480',
+
         },
     }, {
         id: 'm2',
@@ -24,6 +26,8 @@ export default {
         user: {
             id: 'u2',
             name: 'Lukas',
+            imageUri: 'https://media.istockphoto.com/photos/hiding-spider-picture-id146953480',
+
         },
     }, {
         id: 'm3',
@@ -32,6 +36,8 @@ export default {
         user: {
             id: 'u2',
             name: 'Lukas',
+            imageUri: 'https://media.istockphoto.com/photos/hiding-spider-picture-id146953480',
+
         },
     }, {
         id: 'm4',
@@ -40,6 +46,8 @@ export default {
         user: {
             id: 'u1',
             name: 'Vadim',
+            imageUri: 'https://media.istockphoto.com/photos/hiding-spider-picture-id146953480',
+
         },
     }, {
         id: 'm5',
@@ -48,6 +56,8 @@ export default {
         user: {
             id: 'u1',
             name: 'Vadim',
+            imageUri: 'https://media.istockphoto.com/photos/hiding-spider-picture-id146953480',
+
         },
     }, {
         id: 'm6',
@@ -56,6 +66,8 @@ export default {
         user: {
             id: 'u2',
             name: 'Lukas',
+            imageUri: 'https://media.istockphoto.com/photos/hiding-spider-picture-id146953480',
+
         },
     }, {
         id: 'm7',
@@ -64,6 +76,8 @@ export default {
         user: {
             id: 'u1',
             name: 'Vadim',
+            imageUri: 'https://media.istockphoto.com/photos/hiding-spider-picture-id146953480',
+
         },
     }]
 }
